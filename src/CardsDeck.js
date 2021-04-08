@@ -2,6 +2,7 @@
 const deckTable = []
 const deck = []
 const cardsHand = []
+const scoreboard = []
 
 
 function Hand() {
@@ -18,5 +19,10 @@ function selectWinnerCard() {
 
 
 function cardTableSelect() {
+    if (cardSelect === idPlayer) {
+        pointsCounter(idPlayer)
+    }
 
-}
+    function pointsCounter(idPlayer) {
+        scoreboard[idPlayer] += 1;
+    }
