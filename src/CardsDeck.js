@@ -4,6 +4,9 @@ const deck = []
 const cardsHand = []
 const scoreboard = []
 
+function game() {
+
+}
 
 function Hand() {
     if (cardsHand.length < 8) deck.push(cardsHand)
