@@ -1,5 +1,0 @@
-function gameRunning() {
-
-}
-
-export { gameRunning };
