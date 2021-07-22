@@ -1,13 +1,26 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
+=======
+# HunmanVsCoards
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tabela de conteúdos
+<!--ts-->
+   * [Introdução](##Introdução)
+   * [Tecnologias](##Tecnologias)
+ 
+<!--te-->
+>>>>>>> f13bd396db94754d6c732f9b33dfa79d40231602
 
-## Available Scripts
+#
+## Introdução
 
-In the project directory, you can run:
+#### 
+# 
+## Tecnologias
 
-### `yarn start`
 
+
+<<<<<<< HEAD
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -68,3 +81,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+>>>>>>> f13bd396db94754d6c732f9b33dfa79d40231602
